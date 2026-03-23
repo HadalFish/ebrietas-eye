@@ -92,8 +92,8 @@ Send these to your bot in the configured chat:
 
 Jobs are auto-accepted when:
 - The teacher is on the greenlist (highest priority)
-- The school is on the auto-accept school list (e.g. Hoover Elementary, K-8 Virtual)
-- The position matches school-specific criteria (e.g. sped at Davis High, self-contained at Adams)
+- The school is on the auto-accept school list (e.g. Washington Elementary)
+- The position matches school-specific criteria (e.g. sped at MLK High, self-contained at Maddison)
 
 Auto-accept can be toggled at runtime via Telegram (`on` / `off`) and persists across restarts.
 
